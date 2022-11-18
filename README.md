@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on React, Nextjs, Strapi.io, Javascript, CSS, Bootstrap, Tailwindcss and normally I am working as a Senior Software Engineer and Solutions Architect and contributing to frontend and backend tech stacks for building web applications.
 - :seedling: Learning online with large Microservice class with 660+ videos in it.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](donthaveityet)
+- :mailbox:How to reach me: 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
