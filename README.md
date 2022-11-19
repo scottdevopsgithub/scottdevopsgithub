@@ -25,6 +25,7 @@
 
 ### WHAT AM I WORKING ON?
 - 🔭 I’m currently working on React, Nextjs, Strapi.io (Headless CMS), WEB API's, JavaScript, CSS, Bootstrap, Material Design, MUI.com, Tailwindcss. Typically I spend my days and nights working as a Senior Software Engineer and Solutions Architect and contributing to frontend and backend tech stacks for building web applications.
+- :mailbox:I am creating YouTube technical training videos: https://studio.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w
 - :seedling: Learning online with Udemy about Building, deploying, and scaling an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes https://www.udemy.com/course/microservices-with-node-js-and-react/learn/lecture/19119606?start=0#overview
 - :zap: In my free time, I review open source projects and help find bugs and solutions if possible. You can see my ScottDevOpsGithub account in some issues I was debugging on Chartbrew: https://github.com/chartbrew/strapi-plugin-chartbrew/issues?q=is%3Aissue+is%3Aclosed
 - :mailbox:How to reach me: you can goto my YouTube page and hit the infomation tab and contact me there: https://studio.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w
@@ -32,6 +33,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"  title="CSharp" alt="Csharp" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -48,6 +50,7 @@
 ### ⚡ Cloud and Web Platforms/Databases :
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  title="DotnetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
@@ -65,17 +68,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
-          
-              
-              
 </div>                        
      
 ### 👯 CSS Libraries :
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
-          
-              
 </div>    
 
 ### 😄 Tools and Utilities :
