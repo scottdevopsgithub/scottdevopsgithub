@@ -25,10 +25,10 @@
 
 ### WHAT AM I WORKING ON?
 - 🔭 I’m currently working on React, Nextjs, Strapi.io (Headless CMS), WEB API's, JavaScript, CSS, Bootstrap, Material Design, MUI.com, Tailwindcss. Typically I spend my days and nights working as a Senior Software Engineer and Solutions Architect and contributing to frontend and backend tech stacks for building web applications.
-- :mailbox:I am creating YouTube technical training videos: https://studio.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w
+- :mailbox:I am creating YouTube technical training videos: [https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w](https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w)
 - :seedling: Learning online with Udemy about Building, deploying, and scaling an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes https://www.udemy.com/course/microservices-with-node-js-and-react/learn/lecture/19119606?start=0#overview
 - :zap: In my free time, I review open source projects and help find bugs and solutions if possible. You can see my ScottDevOpsGithub account in some issues I was debugging on Chartbrew: https://github.com/chartbrew/strapi-plugin-chartbrew/issues?q=is%3Aissue+is%3Aclosed
-- :mailbox:How to reach me: you can goto my YouTube page and hit the infomation tab and contact me there: https://studio.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w
+- :mailbox:How to reach me: you can goto my YouTube page and hit the infomation tab and contact me there: [https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w](https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
