@@ -21,7 +21,7 @@
 
 
 ### :man_technologist: About Me :
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ### WHAT AM I WORKING ON?
 - 🔭 I’m currently working on React, Nextjs, Strapi.io (Headless CMS), WEB API's, JavaScript, CSS, Bootstrap, Material Design, MUI.com, Tailwindcss. Typically I spend my days and nights working as a Senior Software Engineer and Solutions Architect and contributing to frontend and backend tech stacks for building web applications.
