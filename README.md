@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-### WHAT AM I WORKING ON?
+### WHAT AM I WORKING ON in 2022 and 2023?
 - 🔭 I’m currently working on C#/.NET/Azure, React, Nextjs, Strapi.io (Headless CMS), WEB API's, JavaScript, CSS, Bootstrap, Material Design, MUI.com, Tailwindcss. Typically I spend my days and nights working as a Senior Software Engineer and Solutions Architect and contributing to frontend and backend tech stacks for building web applications.
 - :mailbox:I am creating YouTube technical training videos: [https://www.youtube.com/@ScottDevOps/videos](https://www.youtube.com/@ScottDevOps/videos)
 or here [https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w](https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w)
