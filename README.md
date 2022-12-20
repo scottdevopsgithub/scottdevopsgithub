@@ -105,7 +105,7 @@ or here [https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w](https://www.y
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scottdevopsgithub&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottdevopsgithub&layout=compact&theme=vision-friendly-dark)](https://github.com/scottdevopsgithub/github-readme-stats)
+![Scotts GitHub stats](https://github-readme-stats.vercel.app/api?username=scottdevopsgithub&count_private=true&theme=vision-friendly-dark)
 
 ### :writing_hand: Blog Posts :
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://scottsblog2.netlify.app/">Scotts Blog Site</a>
