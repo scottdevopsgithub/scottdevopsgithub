@@ -102,14 +102,9 @@ or here [https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w](https://www.y
           
 </div>          
 
-<div>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scottdevopsgithub&theme=dark&background=000000)](https://git.io/streak-stats)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottdevopsgithub&layout=compact&theme=vision-friendly-dark)](https://github.com/scottdevopsgithub/github-readme-stats)
-<br/>
-</div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scottdevopsgithub&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
     
 ### :writing_hand: Blog Posts :
