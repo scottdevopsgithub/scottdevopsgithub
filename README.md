@@ -1,4 +1,4 @@
-### Hi there, and welcome to my personalized GitHub repo page Dec 31st 2022 👋
+### Hi there, and welcome to my personalized GitHub repo page Jan 1st 2023 👋
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
