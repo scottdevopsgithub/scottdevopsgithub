@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-### WHAT AM I WORKING ON in 2022 and 2023?
+### WHAT AM I WORKING ON THESE DAYS?
 - 🔭 I’m currently working on C#/.NET/Azure, MAUI for .NET, AI Artificial Intellgence things like OpenAI, and Azure AI, and I am tweaking and will be deploying the .NET Podcast SaaS application (from Microsoft .NET Conference) to Azure, React, Nextjs, Strapi.io (Headless CMS), WEB API's, JavaScript, CSS, Bootstrap, Material Design, MUI.com, Tailwindcss. Typically I spend my days and nights working as a Senior Software Engineer and Solutions Architect and contributing to frontend and backend tech stacks for building web applications. I am also looking at .NET MAUI, and some AI topics.
 - :mailbox:I am creating YouTube technical training videos: [https://www.youtube.com/@ScottDevOps/videos](https://www.youtube.com/@ScottDevOps/videos)
 or here [https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w](https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w)
