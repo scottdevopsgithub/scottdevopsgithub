@@ -159,8 +159,16 @@ or here [https://www.youtube.com/channel/UCMSUkhR0QTdLVPwEOzuRy8w](https://www.y
 - <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
 
 ### Misc (I will fill these in soon):
-- 🌱 I’m currently learning more about AI with ChatGPT
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently working with all frontier AI models and providers such as ChatGPT, Perplexity, Claude, Anthropic, Super Grok
+• Google Gemini
+• NotebookLM
+• Google Workspace AI
+• Google Labs (ImageFX / VideoFX / MusicFX)
+
+💻 Developer & Enterprise
+• Google AI Studio
+
+- 👯 I’m looking to collaborate on your project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
